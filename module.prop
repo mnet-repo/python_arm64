@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=python_arm64
+name=python_arm64
+version=v1.0
+versionCode=1
+author=mrbox23@xda
+description=An overlay installing Python3.8 on Android arm64(aarch64)
+support=mrbox24@gmail.com
